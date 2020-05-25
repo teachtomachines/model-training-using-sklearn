@@ -2,7 +2,7 @@
 
 English:
 
-This repo belongs to the applications carried out below links.
+This repo belongs to the applications carried out below links where you can find detailed explanations about:
 
 * Exploratory Data Analysis
 * Model Training
@@ -14,7 +14,7 @@ https://teachtomachines.com/2020/05/25/tahminleme-ve-veri-gorsellestirme/
 
 Türkçe:
 
-Bu repo aşağıdaki linklerde yer alan uygulamara aittir.
+Bu repo aşağıdaki linklerde yer alan uygulamara aittir. Bu linklerde aşağıdakilere ait detaylı açıklamalar bulabilirsiniz:
 
 * Keşifsel Veri Analizi
 * Model Eğitimi
